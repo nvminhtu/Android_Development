@@ -37,3 +37,4 @@ Từ khóa tìm kiếm: (Android Open Source Project, Android Operating System, 
    [Vogella Android Tutorial]: <http://www.vogella.com/tutorials/Android/article.html>
    [Sublime Text]: <https://www.sublimetext.com/>
    [Atom]: <https://atom.io/>
+  [Xem chi tiết Day 1]: <https://github.com/nvminhtu/Android_Development/blob/master/DAY1.md>
