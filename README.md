@@ -8,11 +8,16 @@ Tự học và luyện code Android trong 20 ngày. Không thể thành thạo A
 
 # Challenge:
 ### Day 1:
+* Cài đặt Android Studio (quá dễ - tìm hiểu thêm trên Google) cho Mac/Win.
 * Tìm hiểu về Android Operating System.
 Từ khóa tìm kiếm: (Android Open Source Project, Android Operating System, )
-*
-=> [Xem chi tiết Day 1]
+* Cài đặt, chạy tools, tối ưu hóa khi build ứng dụng.
+* Tìm hiểu về Android Magnifest và chạy thử ứng dụng đầu.
+* Tìm hiểu về chức năng của các file khác.
 
+
+=> [Xem chi tiết Day 1]
+=> [Download source code Day 1]
 ### Day 2:
 ### Day 3:
 
