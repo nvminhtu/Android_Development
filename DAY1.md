@@ -61,7 +61,7 @@ Ví dụ: nếu ta gọi this - thì this chính là context của màn hình hi
 * Cài đặt công cụ và các tools cần thiết. Quá dễ không bàn tới (có thể Google).
 
 ### Tăng tốc khi build và chạy cho Android nếu máy có sử dụng Chip Intel
-* Chúng ta vào Android SDK -> chọn X8 System Image Android 22 - vài cài đặt.
+* Chúng ta vào Android SDK -> chọn X86 System Image Android 22 - vài cài đặt.
 * Hoặc trong Android SDK -> Chọn Extra -> chọn Intel x86 Emulator Accelerator (HAXM) - tăng tốc cho máy ảo.
 
 **Free Software, Hell Yeah!**
