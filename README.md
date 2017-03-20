@@ -7,10 +7,11 @@ Tự học và luyện code Android trong 20 ngày. Không thể thành thạo A
 * Xem thêm tại đây - [Danh sách kiến thức Android]
 
 # Challenge:
-### Day 1: => [Xem chi tiết Day 1]
+### Day 1:
 * Tìm hiểu về Android Operating System.
 Từ khóa tìm kiếm: (Android Open Source Project, Android Operating System, )
-* 
+*
+=> [Xem chi tiết Day 1]
 
 ### Day 2:
 ### Day 3:
@@ -18,7 +19,7 @@ Từ khóa tìm kiếm: (Android Open Source Project, Android Operating System, 
 
 
 # Dự án mẫu đã làm:
-s
+
 # Những lỗi hay gặp:
 
 # Một số tutorial tham khảo:
