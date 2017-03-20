@@ -1,7 +1,8 @@
 # Android - 20 days - challenge
 Tự học và luyện code Android trong 20 ngày. Không thể thành thạo Android nhưng làm được những project theo mục đích đã đặt ra.
-+ Số App dự kiến làm: 10 app ( từ cơ bản đến nâng cao)
-+ Start Day (20th March)
+* Số App dự kiến làm: 10 app ( từ cơ bản đến nâng cao)
+* Start Day (20th March)
+* Mục tiêu cuối: Xây dựng ứng dụng học ngoại ngữ (Anh Văn, tiếng Nhật, ....)
 
 # Danh sách kiến thức cần học:
 * Xem thêm tại đây - [Danh sách kiến thức Android]
