@@ -33,6 +33,9 @@ Từ khóa tìm kiếm: (Android Open Source Project, Android Operating System, 
 * [Google Android Tutorial] - Tài liệu chính thức của Google
 * [Vogella Android Tutorial] - Trang này của Vogella rất hay - bên cạnh đó có nhiều thư viện nên xài ở đây.
 
+# Một số trang blog cực hay có download source:
+* [Simplified](https://www.simplifiedcoding.net/)-
+
 # Một số trang thư viện mẫu của Android:
 *
 *
